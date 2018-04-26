@@ -3,6 +3,7 @@ body {
   background-color:  #404040;
   background-image: url("BG_Pic.png");
   background-size: auto;
+  background-repeat:no-repeat;
 }
 h1 {
   border-radius: 25px;
